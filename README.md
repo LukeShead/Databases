@@ -6,7 +6,7 @@ When creating a database, it is mostly done through tables, by creating and edit
 
 
 
-
+![ERD](https://github.com/LukeShead/Databases/blob/master/ERD%20for%20database.JPG)
 
 
 
