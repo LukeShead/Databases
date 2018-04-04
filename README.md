@@ -6,9 +6,15 @@ When creating a database, it is mostly done through tables, by creating and edit
 
 
 
+When designing a database, it is usually the planning of how the database will function that will come first, for example a way of planning what a database will do is for an ERD diagram, this is the diagram that lets the developer and the viewer see how the database will operate and function. The ERD diagram will show the relationship between the tables within the database and can allow much easier development as the steps of the database can be looked at in better detail.
+
+##### Below is the ERD of the database that I will create
+
+This describes what all the tables will be called, what areas they will have within them and it will show how operates. It also shows which tables will interact with each other and in what way they will.
+
 ![ERD](https://github.com/LukeShead/Databases/blob/master/ERD%20for%20database.JPG)
 
-
+As showed, the different tables are linked to each other, the "Heroes" table is linked to the "Heroes_Talents" table. This also follows the same rule with the "Enemies" table being connected to the "Enemies_Talents". What this means is that some people 
 
 
 
