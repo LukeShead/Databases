@@ -27,7 +27,7 @@ These are dictionaries which will help the viewer understand what type of input 
 
 ![Data Dictionary](https://github.com/LukeShead/Databases/blob/master/Database%20spreadsheet.JPG)
 
-In this data dictionary it shows how my database will be made and what value type they will have, by using this spreadsheet I will be able to always have a fixed layout of the database and how it will function. This will allow me to not get distracted with adding 
+In this data dictionary it shows how my database will be made and what value type they will have, by using this spreadsheet I will be able to always have a fixed layout of the database and how it will function. This will allow me to not get distracted with adding anything more or changing it within the development stage, with this I will be able to avoid any complications within my database
 
 
 UPDATE HEROES
