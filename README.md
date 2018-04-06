@@ -27,6 +27,8 @@ These are dictionaries which will help the viewer understand what type of input 
 
 ![Data Dictionary](https://github.com/LukeShead/Databases/blob/master/Database%20spreadsheet.JPG)
 
+In this data dictionary it shows how my database will be made and what value type they will have, by using this spreadsheet I will be able to always have a fixed layout of the database and how it will function. This will allow me to not get distracted with adding 
+
 
 UPDATE HEROES
 SET LEVEL = 4, HP=200
@@ -35,8 +37,6 @@ WHERE NAME LIKE 'Dem Bois%';
 SELECT * FROM HEROES;
 
 WHERE NAME LIKE 'Dem Bois%';
-
-
 
 SELECT H.NAME, H.LEVEL,
 S,NAME, HS.LEVEL
