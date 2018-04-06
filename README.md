@@ -8,7 +8,7 @@ When creating a database, it is mostly done through tables, by creating and edit
 
 When designing a database, it is usually the planning of how the database will function that will come first, for example a way of planning what a database will do is for an ERD diagram, this is the diagram that lets the developer and the viewer see how the database will operate and function. The ERD diagram will show the relationship between the tables within the database and can allow much easier development as the steps of the database can be looked at in better detail.
 
-##### Below is the ERD of the database that I will create
+### Below is the ERD of the database that I will create
 
 This describes what all the tables will be called, what areas they will have within them and it will show how operates. It also shows which tables will interact with each other and how that will affect the database
 
@@ -21,7 +21,7 @@ In the ERD it also shows the what the information within the tables are going to
 
 
 
-##### As well as an ERD, there are Data dictionaries
+### As well as an ERD, there are Data dictionaries
 
 These are dictionaries which will help the viewer understand what type of input the table area will have, for example certain areas will have "text" next to them whereas others will have "float". This is to indecate whether there would be numbers or letters within the field of input. Data dictionaries are important as they can keep the database consistent from the start by giving it a set point as it allows viewers to look onto a clear view of what the database is going to be like and can always be referred back to when stuck.
 
