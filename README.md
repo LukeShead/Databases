@@ -29,6 +29,18 @@ These are dictionaries which will help the viewer understand what type of input 
 
 In this data dictionary it shows how my database will be made and what value type they will have, by using this spreadsheet I will be able to always have a fixed layout of the database and how it will function. This will allow me to not get distracted with adding anything more or changing it within the development stage, with this I will be able to avoid any complications within my database
 
+### User stories
+
+When looking at the requirements for the database, it can all be summed up with the use of user stories, user stories are simple objectives that can be completed in order to cater for the user's or clients needs.
+
+
+
+
+
+
+
+
+
 
 UPDATE HEROES
 SET LEVEL = 4, HP=200
