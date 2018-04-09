@@ -10,7 +10,7 @@ When designing a database, it is usually the planning of how the database will f
 
 This describes what all the tables will be called, what areas they will have within them and it will show how operates. It also shows which tables will interact with each other and how that will affect the database
 
-![ERD](https://github.com/LukeShead/Databases/blob/master/Better%20ERD.JPG
+![ERD](https://github.com/LukeShead/Databases/blob/master/Better%20ERD.JPG)
 
 As showed, the different tables are linked to each other, the "Heroes" table is linked to the "Heroes_Talents" table. This also follows the same rule with the "Enemies" table being connected to the "Enemies_Talents". What this means is that only an entry to the Heroes table will be connected to an entry to the Heroes_Talents table and vise versa. However an enemy is not connected the Heroes table or the Heroes_Talents table but is connected to the Enemies_Talents table. All of these tables on link to one table however called "Skills", this table is connected to both the Talent tables and interacts with them both.
 
