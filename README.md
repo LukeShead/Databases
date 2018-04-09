@@ -4,8 +4,6 @@ When designing software, databases are used all the time with them, this is beca
 
 When creating a database, it is mostly done through tables, by creating and editing tables along with sorting them, data that is stored in databases are mostly done within tables that are split into different categories in order to allow the viewer of the database to see it's contents clearly.
 
-
-
 When designing a database, it is usually the planning of how the database will function that will come first, for example a way of planning what a database will do is for an ERD diagram, this is the diagram that lets the developer and the viewer see how the database will operate and function. The ERD diagram will show the relationship between the tables within the database and can allow much easier development as the steps of the database can be looked at in better detail.
 
 ### Below is the ERD of the database that I will create
@@ -32,11 +30,6 @@ In this data dictionary it shows how my database will be made and what value typ
 ### User stories
 
 When looking at the requirements for the database, it can all be summed up with the use of user stories, user stories are simple objectives that can be completed in order to cater for the user's or clients needs.
-
-
-
-
-
 
 
 
