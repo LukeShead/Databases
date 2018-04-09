@@ -16,9 +16,6 @@ As showed, the different tables are linked to each other, the "Heroes" table is 
 
 In the ERD it also shows the what the information within the tables are going to be, for example the Heroes table has ID, LEVEL, NAME, RACE and STATUS inside it. These areas will be able to have entries within the database that come under those areas, this will determine what data the database is storing and what each table will store in it.
 
-
-
-
 ### As well as an ERD, there are Data dictionaries
 
 These are dictionaries which will help the viewer understand what type of input the table area will have, for example certain areas will have "text" next to them whereas others will have "float". This is to indecate whether there would be numbers or letters within the field of input. Data dictionaries are important as they can keep the database consistent from the start by giving it a set point as it allows viewers to look onto a clear view of what the database is going to be like and can always be referred back to when stuck.
@@ -29,11 +26,28 @@ In this data dictionary it shows how my database will be made and what value typ
 
 ### User stories
 
-When looking at the requirements for the database, it can all be summed up with the use of user stories, user stories are simple objectives that can be completed in order to cater for the user's or clients needs.
+When looking at the requirements for the database, it can all be summed up with the use of user stories, user stories are simple objectives that can be completed in order to cater for the user's or clients needs and can be used as bookmarks in objectives and aims when completing a project.
 
+User stories of this project:
 
+- I would like to be able to see how much HP my hero has.
+- I would like to be able to how much HP the enemies have.
+- I would like to be able to track my heroes level.
+- I would like to be able to track the enemies level.
+- I would like to be able to see what skills I have.
+- I would like to be able to see what skills enemies have.
+- I would like to be able to check the status of my hero.
+- I would like to be able to check the status of my enemies.
+- I would like to be able to read the names of my heroes.
+- I would like to be able to read the names of my enemies.
+- I would like to be able to see the race of my heroes.
+- I would like to be able to see the race of the enemies.
+- I would like to be able to see how much damage a skill does.
+- I would like to be able to see how much healing a skill does.
+- I would like to be able to see the type of skill that my hero has.
+- I would like to be able to see the type of skill that my enemies have.
 
-
+These 
 
 UPDATE HEROES
 SET LEVEL = 4, HP=200
