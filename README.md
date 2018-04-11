@@ -112,7 +112,7 @@ SELECT COUNT (*) FROM HEROES;
 SELECT MAX(H.LEVEL), MIN(H.LEVEL)
 FROM HEROES H;
 
-## The User Manual
+# The User Manual
 
 User and Technical Manual
 
@@ -212,7 +212,7 @@ This is the database that contains all the data that is needed to be stored.
 
 This test plan was to test different elements of the database in order to make sure that all elements of the database worked after it was completed.
 
-## Evidence screenshots
+# Evidence screenshots
 
 ### Heroes Report
 ![](https://github.com/LukeShead/Databases/blob/master/Test%20plan%20evi%201.JPG)
