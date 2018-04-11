@@ -123,3 +123,4 @@ This is the database that contains all the data that is needed to be stored.
 
 ![Test Plan](https://github.com/LukeShead/Databases/blob/master/Test%20plan.JPG)
 
+This test plan was to test different elements of the database in order to make sure that all elements of the database worked after it was completed.
