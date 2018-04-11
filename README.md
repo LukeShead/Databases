@@ -115,3 +115,11 @@ FROM HEROES H;
 ### The Database.
 
 ![The Database](https://github.com/LukeShead/Databases/blob/master/Database.JPG)
+
+This is the database that contains all the data that is needed to be stored.
+
+
+### Test plan 
+
+![Test Plan](https://github.com/LukeShead/Databases/blob/master/Test%20plan.JPG)
+
