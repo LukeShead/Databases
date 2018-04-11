@@ -67,7 +67,7 @@ This is the command that updates the values that are in the fields within their 
 
 These two commands are put into the same catagory as they both do similar things, the select command will select a table, field or values in order for them to be edited, for example a select command and update can be ran at the same time in order to edit a certain part of the database and not all of it. 
 
-Where is similar in which it can be used with commands like update in order to complete its task, for example where there might be certain values, means that all values that come under the where command can be edited in any way, whereas select is more broad, whereas is very direct with its selecting
+Where is similar in which it can be used with commands like update in order to complete its task, for example where there might be certain values, means that all values that come under the where command can be edited in any way, whereas select is more broad, whereas is very direct with its selecting.
 
 ### Code I used in order to build the database
 
