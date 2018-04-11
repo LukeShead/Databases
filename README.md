@@ -47,7 +47,7 @@ User stories of this project:
 - I would like to be able to see the type of skill that my hero has.
 - I would like to be able to see the type of skill that my enemies have.
 
-These 
+These user stories were used in order to help plan the database and 
 
 UPDATE HEROES
 SET LEVEL = 4, HP=200
