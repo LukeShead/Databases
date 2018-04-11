@@ -69,7 +69,11 @@ These two commands are put into the same catagory as they both do similar things
 
 Where is similar in which it can be used with commands like update in order to complete its task, for example where there might be certain values, means that all values that come under the where command can be edited in any way, whereas select is more broad, whereas is very direct with its selecting.
 
-### Code I used in order to build the database
+### Delete
+
+### From
+
+## Code I used in order to build the database
 
 INSERT HEROES
 SET LEVEL, NAME, HP, STATUS = 1
