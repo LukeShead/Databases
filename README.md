@@ -113,3 +113,12 @@ SELECT COUNT (*) FROM HEROES;
 SELECT MAX(H.LEVEL), MIN(H.LEVEL)
 FROM HEROES H;
 
+
+### The Access database
+
+
+
+
+
+
+
