@@ -47,7 +47,32 @@ User stories of this project:
 - I would like to be able to see the type of skill that my hero has.
 - I would like to be able to see the type of skill that my enemies have.
 
-These user stories were used in order to help plan the database and 
+These user stories were used in order to help plan the database and when developing it, allowed clear objectives.
+
+## Developing the database
+
+When developing the database, I used SQL in order to insert tables, update them with any information, select different fields from tables and link tables.
+
+With this I used different commands in order to accomplish this, some of the commands I used with SQL are:
+
+### Insert
+
+This is for filling out empty table and adding values to them, by doing this the database can have values to store and edit. This command is needed to add values using the query language.
+
+### Update
+
+This is the command that updates the values that are in the fields within their respected tables, this is used when certian values in certain fields need to be changed and does not require the whole table to be changed with it. This can be very useful when needing to quickly change a value in many situations.
+
+### Select and Where
+
+These two commands are put into the same catagory as they both do similar things, the select command will select a table, field or values in order for them to be edited, for example a select command and update can be ran at the same time in order to edit a certain part of the database and not all of it. 
+
+Where is similar in which it can be used with commands like update in order to complete its task, for example where there might be certain values, means that all values that come under the where command can be edited in any way, whereas select is more broad, whereas is very direct with its selecting
+
+### Code I used in order to build the database
+
+INSERT HEROES
+SET LEVEL, NAME, HP, STATUS = 1
 
 UPDATE HEROES
 SET LEVEL = 4, HP=200
