@@ -112,6 +112,93 @@ SELECT COUNT (*) FROM HEROES;
 SELECT MAX(H.LEVEL), MIN(H.LEVEL)
 FROM HEROES H;
 
+## The User Manual
+
+User and Technical Manual
+
+Table of Content
+
+1.0 General Information
+1.1 System Overview
+1.2 The Role of Database Systems As...
+1.2.1 Back-end Systems
+1.2.2 E-Commerce
+1.2.3 Data Mining Applications
+1.3 Tools Used
+
+2.0 System Summary
+2.1 What Is An Object Oriented Database?
+2.2 What Is The System For?
+
+
+
+
+
+
+1.0 General Information
+
+
+1.1 System Overview
+
+This database system is designed to hold information on different characters that appear in the game. It has different tables for Heroes, Enemies and other tables relating to skills that hold all of the key values relating to that character, including Name, ID, Health and Damage. These values can be updated in real time for gameplay purposes.
+
+1.2 The Role Of Database Systems As…
+
+Database systems can be used for a wide variety of things. The following is a list of different uses of database systems and what purpose they serve.
+
+	1.2.1 Back-end Systems
+	
+A Back-End Database is a database that can be accessed by different users through a third-party application rather than by application programming stored within the database itself or by manipulation of the data.
+	
+1.2.2 E-Commerce
+
+In E-commerce, the main purpose of a database is to store information about the customer transactions, customer care, and inventory. By using a database,  programming a dynamic E-commerce website becomes easy as you only focus on the presentation and behavior of the website while all interactions are being managed by the system.
+
+	1.2.3 Data Mining Applications
+
+Data mining is the process of discovering patterns in large data sets using different methods. It is an essential process where intelligent methods are applied to extract data patterns. During the process of data mining, the database(s) are searched for key information that could uncover new patterns or sequences in the data.
+
+
+1.3 Tools Used
+
+The following tools were used in the design and creation of the database system:
+
+	-  draw.io 
+	Used to create the Entity Relationship Diagram
+
+	-  Microsoft Excel
+	Used to create the data dictionary and the test plan documentation
+
+	-  Microsoft Access
+	Used to create the database system
+
+ 	-  Microsoft Word
+	Used to create the user and technical documentation
+
+
+
+
+
+
+
+
+
+
+
+2.0 System Summary
+
+
+2.1 What Is An Object Oriented Database?
+
+An object database is a database system in which data is represented in the form of objects similar in design to object oriented programming. Object databases are different from relational database which are table-oriented. Object-relational databases are a mix of both approaches. 
+
+Object-oriented database management systems combine database capabilities with object oriented programming language capabilities. This design allows object-oriented programmers to develop the product, store them as objects, and duplicate and edit existing objects to make new objects Because the database is connected with the programming language, the programmer can maintain a high level of consistency, in that both the OODBMS and the programming language will use the same model to represent themselves. Relational database management system projects maintain a clearer division between the database model and the application.
+
+2.2 What Is The System For?
+
+The system is designed to hold data on the status of different characters and spells within the game, this system will help the game be able to hold multiple bits of data in order to complete it's task.
+
+
 ### The Database.
 
 ![The Database](https://github.com/LukeShead/Databases/blob/master/Database.JPG)
@@ -124,3 +211,19 @@ This is the database that contains all the data that is needed to be stored.
 ![Test Plan](https://github.com/LukeShead/Databases/blob/master/Test%20plan.JPG)
 
 This test plan was to test different elements of the database in order to make sure that all elements of the database worked after it was completed.
+
+## Evidence screenshots
+
+![](https://github.com/LukeShead/Databases/blob/master/Test%20plan%20evi%201.JPG)
+![](https://github.com/LukeShead/Databases/blob/master/Test%20plan%20evi%202.JPG)
+![](https://github.com/LukeShead/Databases/blob/master/Test%20plan%20evi%203.JPG)
+![](https://github.com/LukeShead/Databases/blob/master/Test%20plan%20evi%204.JPG)
+![](https://github.com/LukeShead/Databases/blob/master/Test%20plan%20evi%205.JPG)
+![](https://github.com/LukeShead/Databases/blob/master/Test%20plan%20evi%206.JPG)
+![](https://github.com/LukeShead/Databases/blob/master/test%20plan%20evi%207.JPG)
+![](https://github.com/LukeShead/Databases/blob/master/Test%20plan%20evi%208.JPG)
+![](https://github.com/LukeShead/Databases/blob/master/Test%20plan%20evi%209.JPG)
+![](https://github.com/LukeShead/Databases/blob/master/Test%20plan%20evi%2010.JPG)
+![](https://github.com/LukeShead/Databases/blob/master/test%20plan%20evi%2011.JPG)
+
+These screenshots are all parts of my database and show how the database looked and outputted information, as well as this it was able to update when told too.
